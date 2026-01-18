@@ -13,9 +13,7 @@ The purpose of this software is to strengthen my ability to use Python data anal
 
 A short demonstration video showing the program running and explaining the code can be found here:
 
-[Software Demo Video](https://youtube.link.goes.here)
-
-*(Video will be added before final submission.)*
+[Software Demo Video](https://youtu.be/szwzT0t85W8)
 
 ---
 
